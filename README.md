@@ -1,0 +1,2 @@
+# CoveyTown
+ Covey.Town provides a virtual meeting space where different groups of people can have simultaneous video calls, allowing participants to drift between different conversations, just like in real life. Covey.Town is inspired by existing products like Gather.Town, Sococo, and Gatherly.IO. All implementation will take place in the TypeScript programming language, using React for the user interface.
